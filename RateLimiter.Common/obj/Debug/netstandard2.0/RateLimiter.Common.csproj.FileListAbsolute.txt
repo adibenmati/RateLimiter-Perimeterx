@@ -1,0 +1,8 @@
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\bin\Debug\netstandard2.0\RateLimiter.Common.deps.json
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\bin\Debug\netstandard2.0\RateLimiter.Common.dll
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\obj\Debug\netstandard2.0\RateLimiter.Common.csprojAssemblyReference.cache
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\obj\Debug\netstandard2.0\RateLimiter.Common.AssemblyInfoInputs.cache
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\obj\Debug\netstandard2.0\RateLimiter.Common.AssemblyInfo.cs
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\bin\Debug\netstandard2.0\RateLimiter.Common.pdb
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\obj\Debug\netstandard2.0\RateLimiter.Common.dll
+C:\dev\WorkProj\RateLimiter\RateLimiter.Common\obj\Debug\netstandard2.0\RateLimiter.Common.pdb
