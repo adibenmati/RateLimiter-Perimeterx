@@ -1,4 +1,5 @@
 # RateLimiter-Perimeterx
 How to run:
-1.Go to /publish folder 
-2.Run the following command: RateLimiterAPI.exe ttl=TTL threshold=THRESHOLD
+1.Extract file from linux-publish folder to local pc
+3.Go to Folder
+2.Run the following command: ./RateLimiterAPI ttl=TTL threshold=THRESHOLD
