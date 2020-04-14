@@ -6,7 +6,7 @@ namespace RateLimiter.Common.Models
     {
         public RateLimitData(int timeToLive)
         {
-            Count = 0;
+            Count = 1;
             CloseWindowTime = DateTime.UtcNow.AddMilliseconds(timeToLive);
         }
         public DateTime CloseWindowTime { get; set; }

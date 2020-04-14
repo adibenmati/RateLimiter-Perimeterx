@@ -52,7 +52,9 @@ namespace RateLimiter.Business.BL
                     {
                         if (limitData.CloseWindowTime > DateTime.UtcNow)
                         {
-                            if (_threshold >= ++limitData.Count)
+                            limitData.Count++;
+                            _logger.LogInformation("current count for identifier: " + limitData.Count);
+                            if (_threshold >= limitData.Count)
                             {
                                 result.Blocked = false;
                             }
@@ -71,6 +73,7 @@ namespace RateLimiter.Business.BL
                 _logger.LogError($"something went wrong during rate limiter processing with exception: ${e.Message}");
             }
 
+            _logger.LogInformation($"request for identifier {limitIdentifier} got is blocked: {result.Blocked.ToString()}");
             return Task.FromResult(result);
         }
     }
