@@ -5,14 +5,7 @@ VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RateLimiterAPI", "RateLimiterAPI.csproj", "{30E878DE-8EC7-4A74-A27C-CA197603150B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RateLimiter.Common", "..\RateLimiter.Common\RateLimiter.Common.csproj", "{8255606D-7C93-4013-A5ED-FB109679715D}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RateLimiter.Business", "..\RateLimiter.Business\RateLimiter.Business.csproj", "{4E9DF1E5-C2B4-4B52-81BD-5E3E89A1FF00}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A05F19DB-C2FD-46EA-BB16-25A21DF4237C}"
-	ProjectSection(SolutionItems) = preProject
-		Dockerfile = Dockerfile
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,14 +17,6 @@ Global
 		{30E878DE-8EC7-4A74-A27C-CA197603150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E878DE-8EC7-4A74-A27C-CA197603150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30E878DE-8EC7-4A74-A27C-CA197603150B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8255606D-7C93-4013-A5ED-FB109679715D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8255606D-7C93-4013-A5ED-FB109679715D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8255606D-7C93-4013-A5ED-FB109679715D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8255606D-7C93-4013-A5ED-FB109679715D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4E9DF1E5-C2B4-4B52-81BD-5E3E89A1FF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E9DF1E5-C2B4-4B52-81BD-5E3E89A1FF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E9DF1E5-C2B4-4B52-81BD-5E3E89A1FF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E9DF1E5-C2B4-4B52-81BD-5E3E89A1FF00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

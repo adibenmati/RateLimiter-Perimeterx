@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using RateLimiter.Business.BL.Interfaces;
+using RateLimiterAPI.BL.Interfaces;
 using RateLimiterAPI.Requests;
 
 namespace RateLimiterAPI.Controllers

@@ -4,8 +4,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using RateLimiter.Business.BL;
-using RateLimiter.Business.BL.Interfaces;
+using RateLimiterAPI.BL;
+using RateLimiterAPI.BL.Interfaces;
 
 namespace RateLimiterAPI
 {

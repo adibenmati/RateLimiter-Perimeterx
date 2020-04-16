@@ -34,16 +34,7 @@ C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\
 C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\RateLimiterAPI.runtimeconfig.dev.json
 C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\RateLimiterAPI.dll
 C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\RateLimiterAPI.pdb
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
 C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\RateLimiter.Business.dll
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\RateLimiter.Common.dll
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\RateLimiter.Business.pdb
-C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\bin\Release\netcoreapp3.0\RateLimiter.Common.pdb
 C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\obj\Release\netcoreapp3.0\staticwebassets\RateLimiterAPI.StaticWebAssets.Manifest.cache
 C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\obj\Release\netcoreapp3.0\staticwebassets\RateLimiterAPI.StaticWebAssets.xml
 C:\dev\WorkProj\RateLimiter-Perimeterx\RateLimiterAPI\obj\Release\netcoreapp3.0\RateLimiterAPI.MvcApplicationPartsAssemblyInfo.cache
